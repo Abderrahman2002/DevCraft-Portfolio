@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    id: 'project-1',
+    title: 'E-Commerce Platform',
+    description: 'A full-featured e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product search, cart management, payment processing, and order tracking.',
+    image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['React', 'Node.js', 'MongoDB', 'Express', 'Redux'],
+    demoUrl: 'https://example.com',
+    codeUrl: 'https://github.com',
+  },
+  {
+    id: 'project-2',
+    title: 'Task Management App',
+    description: 'A productivity app for task management with features like task categorization, priority setting, due dates, and progress tracking. Built with Next.js and Firebase.',
+    image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: [  'Tailwind CSS', 'React Query'],
+    demoUrl: 'https://example.com',
+    codeUrl: 'https://github.com',
+  },
+  {
+    id: 'project-3',
+    title: 'Weather Dashboard',
+    description: 'A weather application that provides real-time weather information, forecasts, and historical data. Features include location search, unit conversion, and interactive charts.',
+    image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['React',  'Chart.js', 'Styled-Components'],
+    demoUrl: 'https://example.com',
+    codeUrl: 'https://github.com',
+  },
+  {
+    id: 'project-5',
+    title: 'Quiz App',
+    description: 'A Quiz application that helps users discover meals based on available ingredients, dietary preferences, and cooking time. Includes step-by-step instructions and nutrition information.',
+    image: 'https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: [],
+    demoUrl: 'https://example.com',
+    codeUrl: 'https://github.com',
+  },
+];
