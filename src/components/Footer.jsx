@@ -26,11 +26,11 @@ const Footer = () => {
           </div>
           
           <div className="flex space-x-4">
-            <SocialLink href="https://github.com" icon={<Github size={20} />} />
-            <SocialLink href="https://linkedin.com" icon={<Linkedin size={20} />} />
-            <SocialLink href="https://twitter.com" icon={<Twitter size={20} />} />
-            <SocialLink href="https://instagram.com" icon={<Instagram size={20} />} />
-            <SocialLink href="mailto:contact@example.com" icon={<Mail size={20} />} />
+            <SocialLink href="https://github.com/Abderrahman2002" icon={<Github size={20} />} />
+            <SocialLink href="https://www.linkedin.com/in/abderrahman-boulmane-427b91245/" icon={<Linkedin size={20} />} />
+            <SocialLink href="https://www.facebook.com/abdearahman.bolman.1?locale=ar_AR" icon={<Twitter size={20} />} />
+            <SocialLink href="https://www.instagram.com/abderrahman_boulmane/?hl=ar" icon={<Instagram size={20} />} />
+            <SocialLink href="mailto:abdearahmanbolman@gmail.com" icon={<Mail size={20} />} />
           </div>
         </div>
         
